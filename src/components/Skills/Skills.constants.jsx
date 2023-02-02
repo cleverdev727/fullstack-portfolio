@@ -28,7 +28,7 @@ import figmaIcon from '../../Assets/images/skills/figma.png';
 export const skillCat = {
 	web: {
 		categoryName: 'Backend Dev',
-		percentage: 50,
+		percentage: 37,
 		skillList: [
 			{ name: 'PHP', xp: '10 YRS', icon: phpIcon },
 			{ name: 'CodeIgniter', xp: '7 YRS', icon: ciIcon },
@@ -41,7 +41,7 @@ export const skillCat = {
 	},
 	game: {
 		categoryName: 'Frontend Dev',
-		percentage: 30,
+		percentage: 43,
 		skillList: [
 			{ name: 'HTML', xp: '10 YRS', icon: htmlIcon },
 			{ name: 'CSS', xp: '10 YRS', icon: cssIcon },
